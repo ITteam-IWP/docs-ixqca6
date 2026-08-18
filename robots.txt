@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-apmnx7.saturadar88win.cfd/sitemap.xml
